@@ -40,13 +40,27 @@ _Such code. Much skill. Very full-stack. WOW! 🎉_
 
 <div align="center">
 
-|                                                                                                         |                                                                                                                             |
-| :-----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
-|     🗡️ **C - Blade of Performance** <br/> <img src="assets/c.PNG" alt="C Programming" width="200"/>     |              ⚔️ **C++ - Sword of Objects** <br/> <img src="assets/c++.PNG" alt="C++ Programming" width="200"/>              |
-|      🛡️ **C# - Shield of .NET** <br/> <img src="assets/csharp.PNG" alt="C# Programming" width="200"/>       |  🏹 **TypeScript - Arrow of Precision** <br/> <img src="assets/typescript.PNG" alt="TypeScript Programming" width="200"/>   |
-| 🐍 **Python - Serpent Staff** <br/> <img src="assets/python.PNG" alt="Python Programming" width="200"/> |    ⚡ **JavaScript - Lightning Spell** <br/> <img src="assets/javascript.PNG" alt="JavaScript Programming" width="200"/>    |
-| 🏗️ **HTML5 - Structure Hammer** <br/> <img src="assets/html.PNG" alt="HTML5 Programming" width="200"/>  |              🎨 **CSS3 - Artistic Brush** <br/> <img src="assets/css.PNG" alt="CSS3 Programming" width="200"/>              |
-|       🔮 **PHP - Magic Orb** <br/> <img src="assets/php.PNG" alt="PHP Programming" width="200"/>        | 💎 **PowerShell - Crystal of Automation** <br/> <img src="assets/powershell.PNG" alt="PowerShell Programming" width="200"/> |
+<p>
+<img src="assets/c.PNG" alt="C Programming" width="120"/>
+<img src="assets/c++.PNG" alt="C++ Programming" width="120"/>
+<img src="assets/csharp.PNG" alt="C# Programming" width="120"/>
+<img src="assets/typescript.PNG" alt="TypeScript Programming" width="120"/>
+<img src="assets/python.PNG" alt="Python Programming" width="120"/>
+</p>
+
+<p>
+<img src="assets/javascript.PNG" alt="JavaScript Programming" width="120"/>
+<img src="assets/html.PNG" alt="HTML5 Programming" width="120"/>
+<img src="assets/css.PNG" alt="CSS3 Programming" width="120"/>
+<img src="assets/php.PNG" alt="PHP Programming" width="120"/>
+<img src="assets/powershell.PNG" alt="PowerShell Programming" width="120"/>
+</p>
+
+**🗡️ C - Blade of Performance** • **⚔️ C++ - Sword of Objects** • **🛡️ C# - Shield of .NET**
+
+**🏹 TypeScript - Arrow of Precision** • **🐍 Python - Serpent Staff** • **⚡ JavaScript - Lightning Spell**
+
+**🏗️ HTML5 - Structure Hammer** • **🎨 CSS3 - Artistic Brush** • **🔮 PHP - Magic Orb** • **💎 PowerShell - Crystal of Automation**
 
 </div>
 

@@ -57,6 +57,8 @@ _Such code. Much skill. Very full-stack. WOW! 🎉_
 <b>🛡️ C#</b><br/>
 <i>Shield of .NET</i>
 </td>
+</tr>
+<tr>
 <td align="center">
 <img src="assets/typescript.PNG" alt="TypeScript Programming" width="200"/><br/>
 <b>🏹 TypeScript</b><br/>
@@ -67,13 +69,13 @@ _Such code. Much skill. Very full-stack. WOW! 🎉_
 <b>🐍 Python</b><br/>
 <i>Serpent Staff</i>
 </td>
-</tr>
-<tr>
 <td align="center">
 <img src="assets/javascript.PNG" alt="JavaScript Programming" width="200"/><br/>
 <b>⚡ JavaScript</b><br/>
 <i>Lightning Spell</i>
 </td>
+</tr>
+<tr>
 <td align="center">
 <img src="assets/html.PNG" alt="HTML5 Programming" width="200"/><br/>
 <b>🏗️ HTML5</b><br/>
@@ -89,12 +91,15 @@ _Such code. Much skill. Very full-stack. WOW! 🎉_
 <b>🔮 PHP</b><br/>
 <i>Magic Orb</i>
 </td>
+</tr>
+<tr>
 <td align="center">
 <img src="assets/powershell.PNG" alt="PowerShell Programming" width="200"/><br/>
 <b>💎  PowerShell</b><br/>
 <i>Crystal of Automation</i>
 </td>
 </tr>
+
 </table>
 
 </div>

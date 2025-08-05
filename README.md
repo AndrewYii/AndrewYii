@@ -4,7 +4,7 @@
 
 ## 💻 **DEVELOPER ANDREW** 💻
 
-### 🎮 _Full-Stack Doge_ • Level ∞
+### 🎮 _Full-Stack Doge_ • Level 1
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/03c61bf1-2b1c-4a2f-bb3e-f16dea168d7a/deoj8bp-ef13f5c8-87f7-44fd-bd01-af1fb5719fa7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAzYzYxYmYxLTJiMWMtNGEyZi1iYjNlLWYxNmRlYTE2OGQ3YVwvZGVvajhicC1lZjEzZjVjOC04N2Y3LTQ0ZmQtYmQwMS1hZjFmYjU3MTlmYTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DEOGyzBh3ECDx9OWkvPwa7WttfqsSxxsNRyv0ryqmUE" width="120" alt="Full-Stack Doge"/>
 
@@ -43,55 +43,55 @@ _Such code. Much skill. Very full-stack. WOW! 🎉_
 <table>
 <tr>
 <td align="center">
-<img src="assets/c.PNG" alt="C Programming" width="150"/><br/>
+<img src="assets/c.PNG" alt="C Programming" width="200"/><br/>
 <b>🗡️ C</b><br/>
 <i>Blade of Performance</i>
 </td>
 <td align="center">
-<img src="assets/c++.PNG" alt="C++ Programming" width="150"/><br/>
+<img src="assets/c++.PNG" alt="C++ Programming" width="200"/><br/>
 <b>⚔️ C++</b><br/>
 <i>Sword of Objects</i>
 </td>
 <td align="center">
-<img src="assets/csharp.PNG" alt="C# Programming" width="150"/><br/>
+<img src="assets/csharp.PNG" alt="C# Programming" width="200"/><br/>
 <b>🛡️ C#</b><br/>
 <i>Shield of .NET</i>
 </td>
 <td align="center">
-<img src="assets/typescript.PNG" alt="TypeScript Programming" width="150"/><br/>
+<img src="assets/typescript.PNG" alt="TypeScript Programming" width="200"/><br/>
 <b>🏹 TypeScript</b><br/>
 <i>Arrow of Precision</i>
 </td>
 <td align="center">
-<img src="assets/python.PNG" alt="Python Programming" width="150"/><br/>
+<img src="assets/python.PNG" alt="Python Programming" width="200"/><br/>
 <b>🐍 Python</b><br/>
 <i>Serpent Staff</i>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="assets/javascript.PNG" alt="JavaScript Programming" width="150"/><br/>
+<img src="assets/javascript.PNG" alt="JavaScript Programming" width="200"/><br/>
 <b>⚡ JavaScript</b><br/>
 <i>Lightning Spell</i>
 </td>
 <td align="center">
-<img src="assets/html.PNG" alt="HTML5 Programming" width="150"/><br/>
+<img src="assets/html.PNG" alt="HTML5 Programming" width="200"/><br/>
 <b>🏗️ HTML5</b><br/>
 <i>Structure Hammer</i>
 </td>
 <td align="center">
-<img src="assets/css.PNG" alt="CSS3 Programming" width="150"/><br/>
+<img src="assets/css.PNG" alt="CSS3 Programming" width="200"/><br/>
 <b>🎨 CSS3</b><br/>
 <i>Artistic Brush</i>
 </td>
 <td align="center">
-<img src="assets/php.PNG" alt="PHP Programming" width="150"/><br/>
+<img src="assets/php.PNG" alt="PHP Programming" width="200"/><br/>
 <b>🔮 PHP</b><br/>
 <i>Magic Orb</i>
 </td>
 <td align="center">
-<img src="assets/powershell.PNG" alt="PowerShell Programming" width="150"/><br/>
-<b>� PowerShell</b><br/>
+<img src="assets/powershell.PNG" alt="PowerShell Programming" width="200"/><br/>
+<b>💎  PowerShell</b><br/>
 <i>Crystal of Automation</i>
 </td>
 </tr>

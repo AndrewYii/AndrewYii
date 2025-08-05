@@ -1,5 +1,3 @@
-# 🎮 Welcome to Andrew's Code Quest!
-
 <div align="center">
 
 ## 💻 **DEVELOPER ANDREW** 💻

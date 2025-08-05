@@ -40,27 +40,62 @@ _Such code. Much skill. Very full-stack. WOW! 🎉_
 
 <div align="center">
 
-<p>
-<img src="assets/c.PNG" alt="C Programming" width="120"/>
-<img src="assets/c++.PNG" alt="C++ Programming" width="120"/>
-<img src="assets/csharp.PNG" alt="C# Programming" width="120"/>
-<img src="assets/typescript.PNG" alt="TypeScript Programming" width="120"/>
-<img src="assets/python.PNG" alt="Python Programming" width="120"/>
-</p>
-
-<p>
-<img src="assets/javascript.PNG" alt="JavaScript Programming" width="120"/>
-<img src="assets/html.PNG" alt="HTML5 Programming" width="120"/>
-<img src="assets/css.PNG" alt="CSS3 Programming" width="120"/>
-<img src="assets/php.PNG" alt="PHP Programming" width="120"/>
-<img src="assets/powershell.PNG" alt="PowerShell Programming" width="120"/>
-</p>
-
-**🗡️ C - Blade of Performance** • **⚔️ C++ - Sword of Objects** • **🛡️ C# - Shield of .NET**
-
-**🏹 TypeScript - Arrow of Precision** • **🐍 Python - Serpent Staff** • **⚡ JavaScript - Lightning Spell**
-
-**🏗️ HTML5 - Structure Hammer** • **🎨 CSS3 - Artistic Brush** • **🔮 PHP - Magic Orb** • **💎 PowerShell - Crystal of Automation**
+<table>
+<tr>
+<td align="center">
+<img src="assets/c.PNG" alt="C Programming" width="150"/><br/>
+<b>🗡️ C</b><br/>
+<i>Blade of Performance</i>
+</td>
+<td align="center">
+<img src="assets/c++.PNG" alt="C++ Programming" width="150"/><br/>
+<b>⚔️ C++</b><br/>
+<i>Sword of Objects</i>
+</td>
+<td align="center">
+<img src="assets/csharp.PNG" alt="C# Programming" width="150"/><br/>
+<b>🛡️ C#</b><br/>
+<i>Shield of .NET</i>
+</td>
+<td align="center">
+<img src="assets/typescript.PNG" alt="TypeScript Programming" width="150"/><br/>
+<b>🏹 TypeScript</b><br/>
+<i>Arrow of Precision</i>
+</td>
+<td align="center">
+<img src="assets/python.PNG" alt="Python Programming" width="150"/><br/>
+<b>🐍 Python</b><br/>
+<i>Serpent Staff</i>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="assets/javascript.PNG" alt="JavaScript Programming" width="150"/><br/>
+<b>⚡ JavaScript</b><br/>
+<i>Lightning Spell</i>
+</td>
+<td align="center">
+<img src="assets/html.PNG" alt="HTML5 Programming" width="150"/><br/>
+<b>🏗️ HTML5</b><br/>
+<i>Structure Hammer</i>
+</td>
+<td align="center">
+<img src="assets/css.PNG" alt="CSS3 Programming" width="150"/><br/>
+<b>🎨 CSS3</b><br/>
+<i>Artistic Brush</i>
+</td>
+<td align="center">
+<img src="assets/php.PNG" alt="PHP Programming" width="150"/><br/>
+<b>🔮 PHP</b><br/>
+<i>Magic Orb</i>
+</td>
+<td align="center">
+<img src="assets/powershell.PNG" alt="PowerShell Programming" width="150"/><br/>
+<b>� PowerShell</b><br/>
+<i>Crystal of Automation</i>
+</td>
+</tr>
+</table>
 
 </div>
 

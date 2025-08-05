@@ -32,7 +32,66 @@ _Such code. Much skill. Very full-stack. WOW! 🎉_
 
 ## 🌐 Guild Communications:
 
-[![Contact via Email](https://img.shields.io/badge/📧_Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewyii050801@gmail.com)
+<div align="center">
+
+<a href="mailto:andrewyii050801@gmail.com">
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#D14836;stop-opacity:1">
+        <animate attributeName="stop-color" values="#D14836;#FF6B6B;#D14836" dur="2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#B71C1C;stop-opacity:1">
+        <animate attributeName="stop-color" values="#B71C1C;#FF1744;#B71C1C" dur="2s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background with rounded corners -->
+  <rect x="0" y="0" width="200" height="50" rx="25" ry="25" fill="url(#gradient)" filter="url(#glow)">
+    <animate attributeName="rx" values="25;30;25" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Email icon -->
+  <g transform="translate(15, 12)">
+    <rect x="0" y="4" width="20" height="14" rx="2" fill="white" opacity="0.9">
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <path d="M0 6 L10 12 L20 6" stroke="white" stroke-width="2" fill="none">
+      <animate attributeName="stroke-width" values="2;3;2" dur="1.5s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="22" cy="8" r="2" fill="#FFD700">
+      <animate attributeName="r" values="2;3;2" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Text -->
+  <text x="50" y="32" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    📧 Send Message
+    <animate attributeName="font-size" values="14;15;14" dur="2s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Floating particles -->
+  <circle cx="170" cy="15" r="2" fill="white" opacity="0.6">
+    <animate attributeName="cy" values="15;10;15" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="180" cy="35" r="1.5" fill="white" opacity="0.4">
+    <animate attributeName="cy" values="35;30;35" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
+</a>
+
+</div>
 
 ---
 

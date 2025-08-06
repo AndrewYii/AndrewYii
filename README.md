@@ -38,68 +38,67 @@ _Such code. Much skill. Very full-stack. WOW! 🎉_
 
 <div align="center">
 
-<div style="width: 100%; overflow-x: auto;">
-  <table style="width: 100%; min-width: 300px;">
-    <tr>
-      <td align="center">
-        <img src="assets/c.PNG" alt="C Programming" style="max-width: 200px; width: 100%; height: auto;"/><br/>
-        <b>🗡️ C</b><br/>
-        <i>Blade of Performance</i>
-      </td>
-      <td align="center">
-        <img src="assets/c++.PNG" alt="C++ Programming" style="max-width: 200px; width: 100%; height: auto;"/><br/>
-        <b>⚔️ C++</b><br/>
-        <i>Sword of Objects</i>
-      </td>
-      <td align="center">
-        <img src="assets/csharp.PNG" alt="C# Programming" style="max-width: 200px; width: 100%; height: auto;"/><br/>
-        <b>🛡️ C#</b><br/>
-        <i>Shield of .NET</i>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="assets/typescript.PNG" alt="TypeScript Programming" style="max-width: 200px; width: 100%; height: auto;"/><br/>
-        <b>🏹 TypeScript</b><br/>
-        <i>Arrow of Precision</i>
-      </td>
-      <td align="center">
-        <img src="assets/python.PNG" alt="Python Programming" style="max-width: 200px; width: 100%; height: auto;"/><br/>
-        <b>🐍 Python</b><br/>
-        <i>Serpent Staff</i>
-      </td>
-      <td align="center">
-        <img src="assets/javascript.PNG" alt="JavaScript Programming" style="max-width: 200px; width: 100%; height: auto;"/><br/>
-        <b>⚡ JavaScript</b><br/>
-        <i>Lightning Spell</i>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="assets/html.PNG" alt="HTML5 Programming" style="max-width: 200px; width: 100%; height: auto;"/><br/>
-        <b>🏗️ HTML5</b><br/>
-        <i>Structure Hammer</i>
-      </td>
-      <td align="center">
-        <img src="assets/css.PNG" alt="CSS3 Programming" style="max-width: 200px; width: 100%; height: auto;"/><br/>
-        <b>🎨 CSS3</b><br/>
-        <i>Artistic Brush</i>
-      </td>
-      <td align="center">
-        <img src="assets/php.PNG" alt="PHP Programming" style="max-width: 200px; width: 100%; height: auto;"/><br/>
-        <b>🔮 PHP</b><br/>
-        <i>Magic Orb</i>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="assets/powershell.PNG" alt="PowerShell Programming" style="max-width: 200px; width: 100%; height: auto;"/><br/>
-        <b>💎  PowerShell</b><br/>
-        <i>Crystal of Automation</i>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+<tr>
+<td align="center">
+<img src="assets/c.PNG" alt="C Programming" width="200"/><br/>
+<b>🗡️ C</b><br/>
+<i>Blade of Performance</i>
+</td>
+<td align="center">
+<img src="assets/c++.PNG" alt="C++ Programming" width="200"/><br/>
+<b>⚔️ C++</b><br/>
+<i>Sword of Objects</i>
+</td>
+<td align="center">
+<img src="assets/csharp.PNG" alt="C# Programming" width="200"/><br/>
+<b>🛡️ C#</b><br/>
+<i>Shield of .NET</i>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="assets/typescript.PNG" alt="TypeScript Programming" width="200"/><br/>
+<b>🏹 TypeScript</b><br/>
+<i>Arrow of Precision</i>
+</td>
+<td align="center">
+<img src="assets/python.PNG" alt="Python Programming" width="200"/><br/>
+<b>🐍 Python</b><br/>
+<i>Serpent Staff</i>
+</td>
+<td align="center">
+<img src="assets/javascript.PNG" alt="JavaScript Programming" width="200"/><br/>
+<b>⚡ JavaScript</b><br/>
+<i>Lightning Spell</i>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="assets/html.PNG" alt="HTML5 Programming" width="200"/><br/>
+<b>🏗️ HTML5</b><br/>
+<i>Structure Hammer</i>
+</td>
+<td align="center">
+<img src="assets/css.PNG" alt="CSS3 Programming" width="200"/><br/>
+<b>🎨 CSS3</b><br/>
+<i>Artistic Brush</i>
+</td>
+<td align="center">
+<img src="assets/php.PNG" alt="PHP Programming" width="200"/><br/>
+<b>🔮 PHP</b><br/>
+<i>Magic Orb</i>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="assets/powershell.PNG" alt="PowerShell Programming" width="200"/><br/>
+<b>💎  PowerShell</b><br/>
+<i>Crystal of Automation</i>
+</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -109,51 +108,76 @@ _Such code. Much skill. Very full-stack. WOW! 🎉_
 
 ### 🏰 Infrastructure & Systems
 
-<div align="center">
-  <img src="assets/technologyskilltree.PNG" alt="Infrastructure & Systems" style="max-width: 400px; width: 100%; height: auto;"/>
-</div>
+![Linux](https://img.shields.io/badge/Linux-Penguin_Power-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![AWS](https://img.shields.io/badge/AWS-Cloud_Mastery-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![Apache](https://img.shields.io/badge/Apache-Web_Guardian-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/Vercel-Deploy_Magic-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Container_Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### ⚒️ Development Frameworks
 
-<div align="center">
-  <img src="assets/frameworkskilltree.PNG" alt="Development Frameworks" style="max-width: 400px; width: 100%; height: auto;"/>
-</div>
+![.Net](https://img.shields.io/badge/.NET-Empire_Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+![RayLib](https://img.shields.io/badge/RAYLIB-Game_Engine-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)
+
+![Unity](https://img.shields.io/badge/Unity-Game_Forge-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Utility_First-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Frontend_Framework-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🗄️ Data Vaults
 
-<div align="center">
-  <img src="assets/datavaultskilltree.PNG" alt="Data Vaults" style="max-width: 400px; width: 100%; height: auto;"/>
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-Data_Whale-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-Gem_Database-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📊 Analytics & Intelligence
 
-<div align="center">
-  <img src="assets/analyticskilltree.PNG" alt="Analytics & Intelligence" style="max-width: 400px; width: 100%; height: auto;"/>
-</div>
+![KNIME](https://img.shields.io/badge/KNIME-Data_Laboratory-FFDD00?style=for-the-badge&logo=knime&logoColor=black)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Chart_Wizard-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+![NumPy](https://img.shields.io/badge/NumPy-Number_Cruncher-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-Data_Tamer-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🌐 Network Mastery
 
-<div align="center">
-  <img src="assets/network.PNG" alt="Network Mastery" style="max-width: 400px; width: 100%; height: auto;"/>
-</div>
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-Network_Architect-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### 🎨 Creative Arsenal
 
-<div align="center">
-  <img src="assets/creative.PNG" alt="Creative Arsenal" style="max-width: 400px; width: 100%; height: auto;"/>
-</div>
+![Figma](https://img.shields.io/badge/Figma-Design_Tool-333333?style=for-the-badge&logo=figma&logoColor=white)
+
+![Adobe](https://img.shields.io/badge/Adobe_Suite-Creative_Powerhouse-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-Image_Sorcerer-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-Vector_Virtuoso-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+![Aseprite](https://img.shields.io/badge/Aseprite-Pixel_Artist-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+
+![Canva](https://img.shields.io/badge/Canva-Design_Sniper-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+![Sketch](https://img.shields.io/badge/Sketch-Precision_Tool-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
 ### ⚙️ Development Tools
 
-<div align="center">
-  <img src="assets/development.PNG" alt="Development Tools" style="max-width: 400px; width: 100%; height: auto;"/>
-</div>
+![Git](https://img.shields.io/badge/Git-Version_Control_Tree-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-Code_Fortress-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![CMake](https://img.shields.io/badge/CMake-Build_Master-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### 🎮 Gaming Platforms
 
-<div align="center">
-  <img src="assets/game.PNG" alt="Gaming Platforms" style="max-width: 400px; width: 100%; height: auto;"/>
-</div>
+![Itch.io](https://img.shields.io/badge/Itch.io-Indie_Portal-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+![Xbox](https://img.shields.io/badge/Xbox-Gaming_Console-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
 ---
 
